@@ -353,7 +353,7 @@
 
 		.button-style1
 		{
-			background: #25DCA5;
+			background: #e72b4b;
 			color: #fff;
 		}
 
@@ -454,7 +454,7 @@
 
 		.feature-list h3
 		{
-			color: #25dca6 !important;
+			color: #e72b4b !important;
 		}
 		
 			.feature-list h3:before
@@ -986,14 +986,14 @@
 	
 	.wrapper-style1
 	{
-		background: #25dca6;
+		background: #e72b4b;
 		color: #eee;
 		color: rgba(0,0,0,0.75);
 	}
 	
 		.wrapper-style1 .title
 		{
-			background: #25dca6;
+			background: #e72b4b;
 			color: #fff;
 		}
 	
@@ -1012,7 +1012,7 @@
 		
 		.wrapper-style1 .image
 		{
-			border: solid 5px #2b866a;
+			border: solid 5px #e72b4b;
 		}
 	
 	.wrapper-style2
